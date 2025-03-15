@@ -1,0 +1,9 @@
+[workspace]
+members = [
+  "ex1-hello-world",
+  "ex2-types",
+  "ex3-type-inference",
+  "ex4-fibonacci",
+]
+
+resolver = "3"
