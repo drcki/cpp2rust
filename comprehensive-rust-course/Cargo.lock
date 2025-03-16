@@ -3,6 +3,22 @@
 version = 4
 
 [[package]]
+name = "ex-6-1-blocks-and-scopes"
+version = "0.1.0"
+
+[[package]]
+name = "ex-6-2-if-expressions"
+version = "0.1.0"
+
+[[package]]
+name = "ex-6-3-match-expressions"
+version = "0.1.0"
+
+[[package]]
+name = "ex-6-4-loops"
+version = "0.1.0"
+
+[[package]]
 name = "ex1-hello-world"
 version = "0.1.0"
 

@@ -1,5 +1,5 @@
 [workspace]
-members = [
+members = [ "ex-6-1-blocks-and-scopes", "ex-6-2-if-expressions", "ex-6-3-match-expressions", "ex-6-4-loops",
   "ex1-hello-world",
   "ex2-types",
   "ex3-type-inference",
