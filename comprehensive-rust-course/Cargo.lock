@@ -3,6 +3,42 @@
 version = 4
 
 [[package]]
+name = "ex-1-arrays"
+version = "0.1.0"
+
+[[package]]
+name = "ex-1-shared-references"
+version = "0.1.0"
+
+[[package]]
+name = "ex-2-exclusive-references"
+version = "0.1.0"
+
+[[package]]
+name = "ex-2-tuples"
+version = "0.1.0"
+
+[[package]]
+name = "ex-3-array-iterations"
+version = "0.1.0"
+
+[[package]]
+name = "ex-3-slices"
+version = "0.1.0"
+
+[[package]]
+name = "ex-4-patterns"
+version = "0.1.0"
+
+[[package]]
+name = "ex-4-strings"
+version = "0.1.0"
+
+[[package]]
+name = "ex-5-nested-arrays"
+version = "0.1.0"
+
+[[package]]
 name = "ex-6-1-blocks-and-scopes"
 version = "0.1.0"
 
@@ -16,6 +52,22 @@ version = "0.1.0"
 
 [[package]]
 name = "ex-6-4-loops"
+version = "0.1.0"
+
+[[package]]
+name = "ex-6-5-break-and-continue"
+version = "0.1.0"
+
+[[package]]
+name = "ex-6-6-functions"
+version = "0.1.0"
+
+[[package]]
+name = "ex-6-7-macros"
+version = "0.1.0"
+
+[[package]]
+name = "ex-6-8-collatz-sequence"
 version = "0.1.0"
 
 [[package]]

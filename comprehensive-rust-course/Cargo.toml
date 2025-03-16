@@ -1,5 +1,5 @@
 [workspace]
-members = [ "ex-6-1-blocks-and-scopes", "ex-6-2-if-expressions", "ex-6-3-match-expressions", "ex-6-4-loops",
+members = [ "ex-6-1-blocks-and-scopes", "ex-6-2-if-expressions", "ex-6-3-match-expressions", "ex-6-4-loops", "ex-6-5-break-and-continue", "ex-6-6-functions", "ex-6-7-macros", "ex-6-8-collatz-sequence", "ex-8/ex-1-arrays", "ex-8/ex-2-tuples", "ex-8/ex-3-array-iterations", "ex-8/ex-4-patterns", "ex-8/ex-5-nested-arrays", "ex-9/ex-1-shared-references", "ex-9/ex-2-exclusive-references", "ex-9/ex-3-slices", "ex-9/ex-4-strings",
   "ex1-hello-world",
   "ex2-types",
   "ex3-type-inference",
