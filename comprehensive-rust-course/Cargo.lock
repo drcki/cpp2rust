@@ -7,6 +7,10 @@ name = "ex-1-arrays"
 version = "0.1.0"
 
 [[package]]
+name = "ex-1-named-structs"
+version = "0.1.0"
+
+[[package]]
 name = "ex-1-shared-references"
 version = "0.1.0"
 
@@ -39,6 +43,10 @@ name = "ex-5-nested-arrays"
 version = "0.1.0"
 
 [[package]]
+name = "ex-5-reference-validity"
+version = "0.1.0"
+
+[[package]]
 name = "ex-6-1-blocks-and-scopes"
 version = "0.1.0"
 
@@ -68,6 +76,10 @@ version = "0.1.0"
 
 [[package]]
 name = "ex-6-8-collatz-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "ex-6-geometry"
 version = "0.1.0"
 
 [[package]]
