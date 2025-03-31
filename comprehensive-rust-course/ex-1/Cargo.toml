@@ -1,5 +1,5 @@
 [package]
-name = "ex3-type-inference"
+name = "ex-1"
 version = "0.1.0"
 edition = "2024"
 

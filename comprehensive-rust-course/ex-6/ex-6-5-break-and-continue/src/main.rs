@@ -33,9 +33,9 @@ fn main() {
 
 
   // arbitrary blocks
-  'label: {
-    break 'label;
-    println!("This line gets skipped");
-  }
+  // 'label: {
+  //   break 'label;
+  //   println!("This line gets skipped");
+  // }
 
 }
