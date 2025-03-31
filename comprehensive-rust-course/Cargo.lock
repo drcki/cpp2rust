@@ -43,6 +43,10 @@ name = "ex-3-array-iterations"
 version = "0.1.0"
 
 [[package]]
+name = "ex-3-enums"
+version = "0.1.0"
+
+[[package]]
 name = "ex-3-slices"
 version = "0.1.0"
 
