@@ -25,7 +25,7 @@ members = [
   "ex-9/ex-5-reference-validity",
   "ex-9/ex-6-geometry",
   "ex-10/ex-1-named-structs",
-  "ex-10/ex-2-tuple-structs", "ex-10/ex-3-enums",
+  "ex-10/ex-2-tuple-structs", "ex-10/ex-3-enums", "ex-10/ex-3-more", "ex-10/ex-4-type-aliases", "ex-10/ex-5-const", "ex-10/ex-6-static",
 ]
 
 resolver = "3"

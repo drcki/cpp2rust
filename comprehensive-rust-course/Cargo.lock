@@ -47,6 +47,10 @@ name = "ex-3-enums"
 version = "0.1.0"
 
 [[package]]
+name = "ex-3-more"
+version = "0.1.0"
+
+[[package]]
 name = "ex-3-slices"
 version = "0.1.0"
 
@@ -60,6 +64,14 @@ version = "0.1.0"
 
 [[package]]
 name = "ex-4-strings"
+version = "0.1.0"
+
+[[package]]
+name = "ex-4-type-aliases"
+version = "0.1.0"
+
+[[package]]
+name = "ex-5-const"
 version = "0.1.0"
 
 [[package]]
@@ -104,4 +116,8 @@ version = "0.1.0"
 
 [[package]]
 name = "ex-6-geometry"
+version = "0.1.0"
+
+[[package]]
+name = "ex-6-static"
 version = "0.1.0"

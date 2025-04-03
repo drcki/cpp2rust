@@ -8,6 +8,22 @@ booleans only use the values 0 and 1. As a result, the bool type possesses a nic
 [2, 255].
 */
 
+#[derive(Debug)]
+enum Direction {
+    Left,
+    Right,
+}
+
+#[derive(Debug)]
+enum PlayerMove {
+    Pass,
+    Run(Direction),
+    Teleport { x: u32, y: u32 },
+
+}
+
 fn main() {
-    println!("Hello, world!");
+    let dir: Direction = Direction::Left;
+    let player_move: PlayerMove = PlayerMove::Run(dir);
+    println!("On this turn: {player_move:?}");
 }
