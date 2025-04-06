@@ -1,0 +1,6 @@
+[package]
+name = "ex-1-irrefutable-patterns"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

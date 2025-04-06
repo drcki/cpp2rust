@@ -25,7 +25,7 @@ members = [
   "ex-9/ex-5-reference-validity",
   "ex-9/ex-6-geometry",
   "ex-10/ex-1-named-structs",
-  "ex-10/ex-2-tuple-structs", "ex-10/ex-3-enums", "ex-10/ex-3-more", "ex-10/ex-4-type-aliases", "ex-10/ex-5-const", "ex-10/ex-6-static",
+  "ex-10/ex-2-tuple-structs", "ex-10/ex-3-enums", "ex-10/ex-3-more", "ex-10/ex-4-type-aliases", "ex-10/ex-5-const", "ex-10/ex-6-static", "ex-10/ex-7-exercise", "ex-10/ex-7-exercise-ver2", "ex-12/ex-1-irrefutable-patterns", "ex-12/ex-2-matching-values", "ex-12/ex-3-destructuring-structs", "ex-12/ex-4-destructuring-enums", "ex-12/ex-5-1-if-let", "ex-12/ex-5-2-while-let", "ex-12/ex-5-3-let-else", "ex-12/ex-6-exercise", "ex-13/ex-1-methods", "ex-13/ex-2-1-traits", "ex-13/ex-2-2-supertraits", "ex-13/ex-2-3-associated-types", "ex-13/ex-3-deriving", "ex-13/ex-4-exercise", "ex-14/ex-1-generic-functions", "ex-14/ex-2-trait-bounds", "ex-14/ex-3-generic-data-types", "ex-14/ex-4-generic-traits", "ex-14/ex-5-impl-trait", "ex-14/ex-6-dyn-trait", "ex-14/ex-7-exercise-generic-min", "ex-16/ex-8-counter",
 ]
 
 resolver = "3"

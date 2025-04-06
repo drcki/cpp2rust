@@ -11,6 +11,18 @@ name = "ex-1-arrays"
 version = "0.1.0"
 
 [[package]]
+name = "ex-1-generic-functions"
+version = "0.1.0"
+
+[[package]]
+name = "ex-1-irrefutable-patterns"
+version = "0.1.0"
+
+[[package]]
+name = "ex-1-methods"
+version = "0.1.0"
+
+[[package]]
 name = "ex-1-named-structs"
 version = "0.1.0"
 
@@ -23,7 +35,27 @@ name = "ex-2"
 version = "0.1.0"
 
 [[package]]
+name = "ex-2-1-traits"
+version = "0.1.0"
+
+[[package]]
+name = "ex-2-2-supertraits"
+version = "0.1.0"
+
+[[package]]
+name = "ex-2-3-associated-types"
+version = "0.1.0"
+
+[[package]]
 name = "ex-2-exclusive-references"
+version = "0.1.0"
+
+[[package]]
+name = "ex-2-matching-values"
+version = "0.1.0"
+
+[[package]]
+name = "ex-2-trait-bounds"
 version = "0.1.0"
 
 [[package]]
@@ -43,7 +75,19 @@ name = "ex-3-array-iterations"
 version = "0.1.0"
 
 [[package]]
+name = "ex-3-deriving"
+version = "0.1.0"
+
+[[package]]
+name = "ex-3-destructuring-structs"
+version = "0.1.0"
+
+[[package]]
 name = "ex-3-enums"
+version = "0.1.0"
+
+[[package]]
+name = "ex-3-generic-data-types"
 version = "0.1.0"
 
 [[package]]
@@ -59,6 +103,18 @@ name = "ex-4"
 version = "0.1.0"
 
 [[package]]
+name = "ex-4-destructuring-enums"
+version = "0.1.0"
+
+[[package]]
+name = "ex-4-exercise"
+version = "0.1.0"
+
+[[package]]
+name = "ex-4-generic-traits"
+version = "0.1.0"
+
+[[package]]
 name = "ex-4-patterns"
 version = "0.1.0"
 
@@ -71,7 +127,23 @@ name = "ex-4-type-aliases"
 version = "0.1.0"
 
 [[package]]
+name = "ex-5-1-if-let"
+version = "0.1.0"
+
+[[package]]
+name = "ex-5-2-while-let"
+version = "0.1.0"
+
+[[package]]
+name = "ex-5-3-let-else"
+version = "0.1.0"
+
+[[package]]
 name = "ex-5-const"
+version = "0.1.0"
+
+[[package]]
+name = "ex-5-impl-trait"
 version = "0.1.0"
 
 [[package]]
@@ -115,9 +187,33 @@ name = "ex-6-8-collatz-sequence"
 version = "0.1.0"
 
 [[package]]
+name = "ex-6-dyn-trait"
+version = "0.1.0"
+
+[[package]]
+name = "ex-6-exercise"
+version = "0.1.0"
+
+[[package]]
 name = "ex-6-geometry"
 version = "0.1.0"
 
 [[package]]
 name = "ex-6-static"
+version = "0.1.0"
+
+[[package]]
+name = "ex-7-exercise"
+version = "0.1.0"
+
+[[package]]
+name = "ex-7-exercise-generic-min"
+version = "0.1.0"
+
+[[package]]
+name = "ex-7-exercise-ver2"
+version = "0.1.0"
+
+[[package]]
+name = "ex-8-counter"
 version = "0.1.0"
