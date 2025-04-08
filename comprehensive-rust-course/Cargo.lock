@@ -211,6 +211,10 @@ name = "ex-7-exercise-generic-min"
 version = "0.1.0"
 
 [[package]]
+name = "ex-7-exercise-rot13"
+version = "0.1.0"
+
+[[package]]
 name = "ex-7-exercise-ver2"
 version = "0.1.0"
 
