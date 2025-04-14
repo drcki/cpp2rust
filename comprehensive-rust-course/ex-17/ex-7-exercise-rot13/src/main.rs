@@ -1,4 +1,4 @@
-use std::io::{BufReader, Read};
+use std::io::Read;
 
 struct RotDecoder<R: Read> {
     input: R,
@@ -6,14 +6,18 @@ struct RotDecoder<R: Read> {
 }
 
 // Implement the `Read` trait for `RotDecoder`.
-impl <R: Read> RotDecoder<R> {
-  fn read_to_string(self: Self, string : &mut String) -> std::io::Result<usize> {
-    let mut buf_reader = BufReader::new(self.input);
-    buf_reader.read_to_string(string)
-  }
+impl <R: Read> Read for RotDecoder<R> {
 
-  fn read(self: Self, buffer: &mut [u8]) -> std::io::Result<usize> {
-    todo!()
+  fn read(&mut self, buffer: &mut [u8]) -> std::io::Result<usize> {
+    let size = self.input.read(buffer)?;
+
+    for b in &mut buffer[..size] {
+      if b.is_ascii_alphabetic() {
+        let base = if b.is_ascii_uppercase() { 'A' } else {'a'} as u8;
+        *b = (*b - base + self.rot) % 26 + base;
+      }
+    }
+    Ok(size)
   }
 }
 
