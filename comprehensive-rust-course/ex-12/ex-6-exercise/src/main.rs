@@ -117,3 +117,5 @@ fn test_div() {
         5
     )
 }
+
+fn main() {}

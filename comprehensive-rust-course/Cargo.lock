@@ -11,6 +11,10 @@ name = "ex-1-arrays"
 version = "0.1.0"
 
 [[package]]
+name = "ex-1-closure-syntax"
+version = "0.1.0"
+
+[[package]]
 name = "ex-1-generic-functions"
 version = "0.1.0"
 
@@ -44,6 +48,10 @@ version = "0.1.0"
 
 [[package]]
 name = "ex-2-3-associated-types"
+version = "0.1.0"
+
+[[package]]
+name = "ex-2-capturing"
 version = "0.1.0"
 
 [[package]]
