@@ -83,6 +83,10 @@ name = "ex-3-array-iterations"
 version = "0.1.0"
 
 [[package]]
+name = "ex-3-closure-traits"
+version = "0.1.0"
+
+[[package]]
 name = "ex-3-deriving"
 version = "0.1.0"
 
